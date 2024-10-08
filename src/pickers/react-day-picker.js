@@ -1,3 +1,4 @@
+// 80.88kb
 import React, { useState } from 'react'
 import { DayPicker } from 'react-day-picker'
 import isAfter from 'date-fns/isAfter'
